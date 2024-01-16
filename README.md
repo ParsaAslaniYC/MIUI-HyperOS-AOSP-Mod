@@ -2,7 +2,7 @@
 AOSP Features for MIUI And HyperOS without root!
 ```markup
 Use at own risk, this cannot applyed on miui for poco or hyperos for poco!
-using this on poco devices can create the devicd unuseable!
+using this on poco devices can create the device unuseable!
 ```
 ## Installion
 ### 1.Download Repository
