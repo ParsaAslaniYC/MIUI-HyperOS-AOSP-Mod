@@ -11,5 +11,5 @@ using this on poco devices can create the devicd unuseable!
 
 ## Notes
 ### This is official xiaomi SystemUI PlugIn. thats renamed and installed along the original app
-### this create a problem for SystemUI PlugIn and replaces Volume Control ( and PowerOptions in HyperOS ) with AOSPs
+### this create a new session for SystemUI PlugIn and replaces Volume Control ( and PowerOptions in HyperOS ) with AOSPs
 ### Cannot be used on POCO Devices, after install on poco devices you have blank screen, only you have a power menu.
